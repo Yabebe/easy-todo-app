@@ -1,2 +1,3 @@
 # easy-todo-app
-Todo app for the first time with Django.
+Todo App for the first time with Django.
+Cobines create and delete functions.
