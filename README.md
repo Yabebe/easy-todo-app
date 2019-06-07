@@ -1,2 +1,2 @@
 # easy-todo-app
-Todo app for the first time
+Todo app for the first time with Django.
